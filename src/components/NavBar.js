@@ -9,7 +9,7 @@ function NavBar() {
       <Link to="../" element={<Home />}>
         <i className="fa-solid fa-chevron-left" />
       </Link>
-      <p>Countries</p>
+      <p>Continents</p>
       <div className="right-nav">
         <i className="fa-solid fa-microphone" />
         <i className="fa-solid fa-gear" />
