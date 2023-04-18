@@ -59,7 +59,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Comming soon]
+- [See live here](https://world-view.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
