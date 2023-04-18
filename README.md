@@ -29,7 +29,7 @@
 
 # 📖 [World-view-capstone-project] <a name="about-project"></a>
 
-**[World-view-capstone-project]** is about building a mobile web application to check a list of metrics (numeric values) that is created making use of React and Redux by using [Rest Countries API](https://restcountries.com/) that provides numeric data about a topic that you like and then build the webapp around it.
+**[World-view-capstone-project]** is about building a mobile web application to check a list of countries that is created making use of React and Redux by using [Rest Countries API](https://restcountries.com/) that provides detailed data about each countries.
 
 Here is my short video explaining about the project: [Presentation](https://www.loom.com/share/b51d629b3f3c4cd9a108ae516b9d57df)
 
