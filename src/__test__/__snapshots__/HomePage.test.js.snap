@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details Component should render the details correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="search-holder"
+  >
+    <input
+      class="search-bar"
+      placeholder="Search by name"
+      type="text"
+    />
+  </div>
+  <div
+    class="heading-content"
+  >
+    <img
+      alt="Rotating Globe"
+      class="world-image"
+      src="rotatingglobe.gif"
+    />
+    <h2>
+      Number of Countries: 
+      <br />
+      <span
+        class="countries-num"
+      >
+        235
+      </span>
+    </h2>
+    <div
+      class="stat-divide"
+    >
+      <p>
+        Stats by population
+      </p>
+    </div>
+  </div>
+  <div
+    class="contents"
+  />
+  ,
+</DocumentFragment>
+`;
