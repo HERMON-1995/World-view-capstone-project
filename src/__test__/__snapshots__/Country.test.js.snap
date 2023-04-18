@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details Component should render the details correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="cont"
+  >
+    <div
+      class="img-ico"
+    >
+      <img
+        alt="a country flag"
+        class="flags"
+      />
+      <i
+        class="fa-solid fa-circle-arrow-right"
+      />
+    </div>
+    <div
+      class="text-desc"
+    >
+      <p
+        class="country-name"
+      />
+      <p
+        class="population"
+      />
+    </div>
+  </div>
+  ,
+</DocumentFragment>
+`;
