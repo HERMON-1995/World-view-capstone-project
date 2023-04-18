@@ -71,7 +71,7 @@ Here is my short video explaining about the project: [Presentation](https://www.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need to:
 
 ```sh
 download Node.js
